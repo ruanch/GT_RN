@@ -5,7 +5,7 @@
 - Clone project
 
 ```bash
-git clone https://github.com/signalboss35/createBottomTabNavigator.git
+git clone https://github.com/ruanch/GT_RN.git
 ```
 
 - install react native package
